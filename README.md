@@ -33,7 +33,7 @@ The project was developed using the following technologies.
     //Clone the repository
     $ git clone https://github.com/TayseRosa/react-native-switch.git
 
-    //Enter the directory
+    //Enter the directory 
     $ cd react-native-switch
 
     //Install the dependencies the project
