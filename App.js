@@ -1,12 +1,24 @@
-import { StatusBar } from 'expo-status-bar';
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React, { useState } from 'react';
+import { StyleSheet, Text, View, Switch } from 'react-native';
+
 
 export default function App() {
+  const [ status, setStatus ] = useState(false);
+
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+      <Text> Switch </Text>
+
+      <Switch 
+      //valor que esta no momento (ligado ou desligado)
+        value={status}
+        //toda vez que alterar
+        onValueChange={ (valorSwitch)=>setStatus(valorSwitch)  }
+        thumbColor="#ff0000"
+
+      />
+
+      <Text> O valor atual é: {(status) ? "ativo" : "inativo"} </Text>
     </View>
   );
 }
