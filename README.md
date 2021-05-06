@@ -6,11 +6,17 @@
 - [Technologies used](#-tecnologias-utilizadas)
 - [How to use](#-how-to-use)
 
-## Demo
-<div data-snack-id="@tayse_rosa/switch---react-native" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
-<script async src="https://snack.expo.io/embed.js">JSDFNKJDSNF</script>
 
-[![switch.png](https://i.postimg.cc/2jqspL07/switch.png)](https://postimg.cc/Th67g1MK)
+## Demo
+
+```js
+<div data-snack-id="@tayse_rosa/switch---react-native" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%">
+
+[![switch.png](https://i.postimg.cc/2jqspL07/switch.png)](https://snack.expo.io/@tayse_rosa/switch---react-native)
+
+</div>
+<script async src="https://snack.expo.io/embed.js"> </script>
+```
 
 ## ➡️ About
 <b>Portugues:</b>
