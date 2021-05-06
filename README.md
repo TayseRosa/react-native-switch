@@ -7,6 +7,9 @@
 - [How to use](#-how-to-use)
 
 ## Demo
+<div data-snack-id="@tayse_rosa/switch---react-native" data-snack-platform="android" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212121;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></div>
+<script async src="https://snack.expo.io/embed.js">JSDFNKJDSNF</script>
+
 [![switch.png](https://i.postimg.cc/2jqspL07/switch.png)](https://postimg.cc/Th67g1MK)
 
 ## ➡️ About
