@@ -1,9 +1,13 @@
 <h1 align="center"> REACT NATIVE (BEGGINER) - SWITCH </h1>
 
 #Índice
+- [Demo](#-demo)
 - [About](#-about)
 - [Technologies used](#-tecnologias-utilizadas)
 - [How to use](#-how-to-use)
+
+## Demo
+[![switch.png](https://i.postimg.cc/2jqspL07/switch.png)](https://postimg.cc/Th67g1MK)
 
 ## ➡️ About
 <b>Portugues:</b>
